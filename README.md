@@ -2,7 +2,7 @@
 
 > Data Days runs **November 2 – December 15, 2026**. Vouchers are limited, so request yours as soon as you are ready.
 
-[![Register](https://img.shields.io/badge/Register-Data%20Days%202026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://community.fabric.microsoft.com/c/campaign-form/page?campaignID=Y2FtcGFpZ24tMTc5MTkwNTc2MDQxMQ)
+[![Register](https://img.shields.io/badge/Register-Data%20Days%202026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]([https://community.fabric.microsoft.com/c/campaign-form/page?campaignID=Y2FtcGFpZ24tMTc5MTkwNTc2MDQxMQ](https://techcommunity.microsoft.com/discussions/partnerskillingswitzerland/microsoft-data-days-2026-free-certification-exam-vouchers-%E2%80%93-dp-800-dp-700-dp-600/4569622/?studentamb_626795))
 
 Request an exam voucher through the **Certification Vouchers page** during Data Days. Each person can request **one** exam voucher, and eligibility requirements apply.
 
@@ -36,7 +36,7 @@ Request an exam voucher through the **Certification Vouchers page** during Data 
 
 ### Step 1 – Register and open Get Certified
 
-1. [![Open Link](https://img.shields.io/badge/Click%20Here-Open%20Link-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://community.fabric.microsoft.com/c/campaign-form/page?campaignID=Y2FtcGFpZ24tMTc5MTkwNTc2MDQxMQ)
+1. [![Open Link](https://img.shields.io/badge/Click%20Here-Open%20Link-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://techcommunity.microsoft.com/discussions/partnerskillingswitzerland/microsoft-data-days-2026-free-certification-exam-vouchers-%E2%80%93-dp-800-dp-700-dp-600/4569622/?studentamb_626795)
 2. Register for Data Days
 3. Click **Explore Certification Resources** under **Get Certified**
 

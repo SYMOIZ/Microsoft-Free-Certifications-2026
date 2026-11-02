@@ -61,7 +61,3 @@ On **Pick your exam voucher offer**, choose the offer that matches your exam and
 3. Schedule your exam right away and take it by the date on your offer
 
 > Details are based on the official Data Days pages and may change. Check them for the latest eligibility rules and terms.
-
----
-
-*Original guide by [Nisal Gunawardhana](https://github.com/nisalgunawardhana).*
